@@ -1,0 +1,5 @@
+makeing structured data in 15 tables as schema:
+
+oppening of 60 zip files related to 60 days of tennis matches with pandas library and read the inner parquet files.
+identify the related table for each parquet files based on their names.
+concat all the datas in each table
